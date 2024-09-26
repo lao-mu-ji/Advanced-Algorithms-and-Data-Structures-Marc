@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced-Algorithms-and-Data-Structures.iml" filepath="$PROJECT_DIR$/.idea/Advanced-Algorithms-and-Data-Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2/Array/Array.iml" filepath="$PROJECT_DIR$/marc-part2/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part3/Binary/Binary.iml" filepath="$PROJECT_DIR$/marc-part3/Binary/Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part3/Expression/Expression.iml" filepath="$PROJECT_DIR$/marc-part3/Expression/Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2/Pairing/Pairing.iml" filepath="$PROJECT_DIR$/marc-part2/Pairing/Pairing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/marc-part2/StackQueue/StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2/Train/Train.iml" filepath="$PROJECT_DIR$/marc-part2/Train/Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2/marc-part2.iml" filepath="$PROJECT_DIR$/marc-part2/marc-part2.iml" />
+    </modules>
+  </component>
+</project>

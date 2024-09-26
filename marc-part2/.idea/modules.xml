@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pairing/Pairing.iml" filepath="$PROJECT_DIR$/Pairing/Pairing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train/Train.iml" filepath="$PROJECT_DIR$/Train/Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marc-part2.iml" filepath="$PROJECT_DIR$/marc-part2.iml" />
+    </modules>
+  </component>
+</project>
